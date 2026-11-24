@@ -7,3 +7,5 @@ Clanovi mogu pretrazivati knjige i pregledati svoja posudjivanja, a bibliotekar 
 -Clan biblioteke
 -Bibliotekar
 -Direktor Biblioteke
+
+-Clan moze jednom traziti produzetak od 14 dana
